@@ -1,1 +1,0 @@
-message = 'Hello Jane and Jim and Kim'
